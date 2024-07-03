@@ -71,10 +71,10 @@ namespace NewApp.Models
         public string science { get; set; } = "0";// Default value is "0"
         public string govJobs { get; set; } = "0";
         public string armedForcesJobs { get; set; } = "0";
-<<<<<<< HEAD
-=======
+
         public string coreStream { get; set; } = "0";
->>>>>>> e72f3df (Reset repository to HEAD and cleaned untracked files)
+        public string age { get; set; } = "0";
+
     }
 
 }
